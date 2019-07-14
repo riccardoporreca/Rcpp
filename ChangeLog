@@ -1,3 +1,9 @@
+2019-07-05  Dirk Eddelbuettel  <edd@debian.org>
+
+	[draft]
+	* inst/include/Rcpp/r/headers.h: Undefine RCPP_NO_STRICT_HEADER so we
+	now use STRICT_R_HEADERS
+
 2019-07-04  Dirk Eddelbuettel  <edd@debian.org>
 
 	* vignettes/Rcpp.bib: Updated
